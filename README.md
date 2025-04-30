@@ -22,8 +22,8 @@ The feature selection techniques used are:
 1.Filter Method
 2.Wrapper Method
 3.Embedded Method
-# NAME: YUVAN SUNDAR S
-# REG NO: 212223040250
+# NAME: MOHAMED ABRAR M
+# REG NO: 212223040111
 # CODING AND OUTPUT:
 ```py
 # Feature Scaling
